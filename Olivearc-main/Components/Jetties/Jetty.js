@@ -5,6 +5,7 @@ import falomoterminalPano from "../Panos/falomoterminalPano";
 import takwabayPano from "../Panos/takwabayPano";
 import sagbokojiPano from "../Panos/sagbokojiPano";
 import oworoPano from "../Panos/oworoPano";
+import barigaPano from "../Panos/barigaPano";
 
 
 const jettyConfig = {
@@ -15,6 +16,7 @@ const jettyConfig = {
     "tarkwa-bay-jetty": takwabayPano,
     "sagbokoji-jetty": sagbokojiPano,
     "oworonshoki-jetty": oworoPano,
+    "bariga-jetty": barigaPano,
 
 };
 
